@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class GoldManager
 {
-    private static int currentGold = 100;
-    public static int enemyPrize = 30;
+    private static int currentGold = 300;
+    public static int enemyPrize = 30; // Bu deðiþken farklý enemyler oluþturulduðunda enemy scriptine taþýnacak.
     public GoldManager()
     {
     }
