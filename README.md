@@ -1,2 +1,5 @@
-# Guard-The-Uludag
-Basic tower defence game which is about my university. But it hasn't finished . I learned range and shoot mechanics.
+# Tower Defence Game
+Basic tower defence game.
+I learned tower defence mechanics with this game.
+
+You can download the game with link.
