@@ -2,4 +2,4 @@
 Basic tower defence game.
 I learned tower defence mechanics with this game.
 
-You can download the game with link.
+You can download the game with the link.
